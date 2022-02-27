@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Company of the Royal Fishery of England</title>
+            <author>Company of the Royal Fishery of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78079</idno>
+            <idno type="STC">Wing B6361A</idno>
+            <idno type="STC">ESTC R222579</idno>
+            <idno type="EEBO-CITATION">45789196</idno>
+            <idno type="OCLC">ocm 45789196</idno>
+            <idno type="VID">172509</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78079)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172509)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2636:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Company of the Royal Fishery of England</title>
+                  <author>Company of the Royal Fishery of England.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1681?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Company of the Royal Fishery of England.</term>
+               <term>Fisheries, Cooperative --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172509:1" rendition="simple:additions"/>
+            <head>By the COMPANY Of the <hi>Royal Fiſhery</hi> of <hi>ENGLAND.</hi>
+            </head>
+            <p>FOraſmuch as all Perſons who may be deſirous to Promote the Fi<g ref="char:EOLhyphen"/>ſhery Affairs under the Management of this Company, may not have the conveniency of Reſorting to the place in <hi>London,</hi> where the Books for Subſcription of the Stock propoſed for carrying on the ſame ſhall be expoſed; and wherein (for the Satisfaction and Encou<g ref="char:EOLhyphen"/>ragement of ſuch as pleaſe to peruſe the ſame) is contained a fair Tran<g ref="char:EOLhyphen"/>ſcript of the Letters Patents, Conſtitution or Frame of Government, and Articles, Terms or Conditions upon which All and Singular Perſons may be Admitted into the ſaid Company, and be Traders and Adven<g ref="char:EOLhyphen"/>turers with them: And to the End the ſaid Affair may become as Gene<g ref="char:EOLhyphen"/>ral and National as may be; The Company hath thought fit to cauſe the Premiſes to be Abbreviated, Printed, and Publiſhed, in theſe Pre<g ref="char:EOLhyphen"/>ſents; That ſuch as ſhall be willing to be concerned therein, may have the ſubſtance of the Contents before them for their Conſideration, <hi>viz.</hi>
+            </p>
+            <div type="part">
+               <head>
+                  <hi>Firſt,</hi> The Abſtract of the Letters Patents for their Incorporation, which is as followeth, <hi>viz.</hi>
+               </head>
+               <p>HIS late Majeſty, King <hi>Charles</hi> the Second, by Letters Patents un<g ref="char:EOLhyphen"/>der the Great Seal of <hi>England,</hi> bearing Date the 25th. day of <hi>Sep<g ref="char:EOLhyphen"/>tember,</hi> 1677. was pleaſed to Conſtitute His Royal Highneſs, <hi>James</hi> Duke of <hi>York, Thomas</hi> Earl of <hi>Danby,</hi> and ſeveral other Perſons of Honour; and others therein Named, and ſuch others as afterwards from time to time ſhould be Admitted into their Company and Society, to be Traders and Adventurers with them, to be One Body Politick and Corporate in Deed and in Name: By the Name of, <hi>The Company of the Royal Fiſhery of <hi>ENGLAND:</hi>
+                  </hi> To have perpetual Succeſſion, Inveſting them and their Succeſſors, with divers Powers and Priviledges, in order to the better Government of the ſaid Company, and Management of their Affairs. And more particularly (amongſt others)</p>
+               <p n="1">I. To meet Yearly for the Electing and Appointing a Governour, Sub-Governour, Deputy-Governour, and 12 Committees for a Court of Aſſiſtants; who, or any Three, or more of them (whereof the Gover<g ref="char:EOLhyphen"/>nour, Sub-Governour, or Deputy-Governour to be always One) are there<g ref="char:EOLhyphen"/>by Authorized to Act in all things according to ſuch Rules, Orders, and
+<pb n="2" facs="tcp:172509:2"/> Directions as ſhould from time to time be made and given unto them by the General Court; and for want of ſuch Orders, Rules, and Directions, to Manage, Govern, Direct, and do what they ſhould judge Neceſſary and Expedient to the well Ordering and Government of the ſaid Com<g ref="char:EOLhyphen"/>pany, and the Improvement of their joynt Stock and Trade, to all Intents and Purpoſes, as if the ſame were done at, and by a General Court of the ſaid Company: And that the ſaid Court of Aſſiſtants, or any Seven or more of them as aforeſaid, as often as they ſhall find occaſion may Sum<g ref="char:EOLhyphen"/>mon a General Court.</p>
+               <p n="2">II. That no Aſſembly or Meeting of the ſaid Company ſhall be deemed a General Court, unleſs the Governour, Sub-Governour, or Deputy-Governour, Six of the ſaid Committees, and Five other Members of the ſaid Company at leaſt be preſent.</p>
+               <p n="3">III. That ſuch General Court may admit other Perſons to be Mem<g ref="char:EOLhyphen"/>bers, and may Increaſe, Contract, or Divide their joynt Stock, as they ſhall think fit: And the Members thereof may Grant, Transfer, and Aſſign their reſpective Stocks.</p>
+               <p n="4">IV. That ſuch General Court may Make, Ordain, and Eſtabliſh ſuch, and ſo many Good, Neceſſary, and Reaſonable Laws, Ordinances, Or<g ref="char:EOLhyphen"/>ders, and Conſtitutions, as to them ſhall ſeem convenient for the good Government of the Company and their Affairs; and may impoſe and ſet Mulcts and Amerciaments upon the breakers of ſuch Laws, or may Remit, Pardon, or Releaſe the ſame upon the Parties Submiſſion. And upon Conviction of any Miſdemeanor, may remove Offenders, and chooſe others.</p>
+               <p n="5">V. That they may Fiſh in and upon all the Coaſts, Creeks, In-lets, Ri<g ref="char:EOLhyphen"/>vers, Arms of the Sea, belonging to His Majeſty's Kingdoms of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> or any of them; or any other His Majeſty's Do<g ref="char:EOLhyphen"/>minions, whereof the Fiſhings are not already Granted, Appropriated, or belonging to ſome particular or private Perſon or Perſons, Bodies Politick or Corporate; and likewiſe in and upon the Main Sea, or any part thereof: And have free and full Liberty to Carry and Tranſport their Fiſh, and Oyl made of Fiſh, to all Ports, Places, and Markets, both in <hi>England</hi> and beyond the Seas, and to Sell the ſame for ready Moneys or Commodities.</p>
+               <p n="6">VI. That they may Erect Store-Houſes, Granaries, Ware-Houſes, Work-Houſes; and may build and make Wharfs and Docks, in and upon any of His Majeſty's Waſtes, Commons, or Waſte-Grounds, without paying or rendring any Rent or Duty to His Majeſty for the ſame: And that neither their Maſters, Skippers, Steers-men, Ships-Crews, Mariners, Fiſher-men, nor others, Employed by the Company in their Fiſhings (whether Foreigners or Natives) ſhall be Impannel'd, Sworn, or Compelled to
+<pb n="3" facs="tcp:172509:2"/> Serve on any Juries or Inqueſts at <hi>Weſtminſter,</hi> the Aſſizes, Seſſions, or elſewhere.</p>
+               <p n="7">VII. They have alſo granted to them 20 <hi>l.</hi> for each and every <hi>Dogger</hi> which they then had, and which (within 7 Years) they ſhould Build in <hi>England,</hi> or any other His Majeſty's Dominions, the ſame to be paid Quarterly out of the Cuſtoms within the Port of <hi>London,</hi> without further Warrant or Directions from His Majeſty.</p>
+               <p n="8">VIII. They have alſo granted unto them All and Singular Priviledges in the City of <hi>London,</hi> as fully and freely, as any Company of Merchants Eſtabliſhed by Letters Patents or Charters do, or may have, Uſe or Enjoy.</p>
+               <p n="9">IX. That all and ſingular Admirals, Vice-Admirals, General Comman<g ref="char:EOLhyphen"/>manders, Captains, Mayors, Sheriffs, Juſtices of the Peace, Cuſtom-Houſe-Officers, and all other Officers, Miniſters, Liege-men and Subjects of His Majeſty's whatſoever, ſhall be in and by all things Aiding, Helping, and Aſſiſting to the ſaid Company and their Succeſſors, their Factors, Agents, and Servants, in the Execution and Enjoyment of the Premiſes, as well on Land as by Sea, whenſoever they ſhall be thereunto deſired: As they tender His Majeſty's Good-will and Pleaſure, and will anſwer the Con<g ref="char:EOLhyphen"/>trary at their Peril, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Secondly,</hi> The Abſtract of the Preſent Conſtitution or Frame of the Govern<g ref="char:EOLhyphen"/>ment; as alſo ſome Rules and Laws neceſſary to be Obſerved by the Perſons concerned in Managing and Improvement of the STOCK.</head>
+               <p>
+                  <hi>Sect.</hi> 1. THat the Chief Government of the Company ſhall be in, and conſiſt of a Governour, Sub-Governour, Deputy-Governour, and 12 Committees, whereof 4 to be called Directors, and 8 Maſters; and alſo of 15 Aſſiſtants, <hi>viz.</hi> to each of them one: Alſo 8 Wardens, and 25 Commiſſioners or Agents, for <hi>Scotland</hi> and <hi>Ireland,</hi> and as many of the other Members of the Company as ſhall from time to time be agreed to be admitted; who, or any 15 or more of them, together with the Gover<g ref="char:EOLhyphen"/>nour, Sub-Governour, Deputy-Governour, and their reſpective Aſſiſtants, or one of them to be preſent; 5 or more of the Committees, 5 or more of the Aſſiſtants, and 5 or more of the other Members of the Company, are to have the chief Power of making Laws, and Ordering the whole Af<g ref="char:EOLhyphen"/>fairs of the Company in their General Courts.</p>
+               <p>
+                  <hi>Sect.</hi> 2. That the Court of Aſſiſtants conſiſt of the Governour, Sub-Governour, Deputy-Governour; the 12 Committees and their 15 Aſſiſtants; who, or any 7 or more of them (whereof the Governour, Sub-Governour, Deputy-Governour, or their reſpective Aſſiſtants, to be always one; 3 of the ſaid Committees, and 3 of the ſaid Aſſiſtants) are to have the chief Directing and Managing of the Affairs of the Company, by their Orders:
+<pb n="2" facs="tcp:172509:3"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:172509:3"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:172509:4"/> And for want of ſuch Orders, may do and execute all things as the Ge<g ref="char:EOLhyphen"/>neral Court may.</p>
+               <p>
+                  <hi>Sect.</hi> 3. That for the more Diſtinct and Regular Management of the ſaid Affairs, the ſaid Court of Aſſiſtants are divided into 4 Chambers, <hi>viz.</hi>
+               </p>
+               <list>
+                  <item>(1.) The Fiſhery Chamber.</item>
+                  <item>(2.) The Stock or Store Chamber.</item>
+                  <item>(3.) The Treaſury or Caſh Chamber.</item>
+                  <item>(4) The Accompt Chamber.</item>
+               </list>
+               <p>Each of which is to conſiſt of the Governour, Sub-Gover<g ref="char:EOLhyphen"/>nour, Deputy-Governour, and their reſpective Aſſiſtants, or one of them. One Director and his Aſſiſtant; two Maſters and their Aſſiſtants, and two Wardens; who, or any three or more of them to be a <hi>Quorum,</hi> are to Act and Execute by Rules and Inſtructions, to be gi<g ref="char:EOLhyphen"/>ven unto them under the Seal of the Company, and not otherwiſe, in their ſeveral and reſpective Chambers.</p>
+               <p>
+                  <hi>Sect.</hi> 4. That there be other 28 Members of the Company, who ſhall be called Agents or Officers; and be employed in the reſpective 4 Chambers, as they ſhall be directed by the Court of Aſſiſtants.</p>
+               <p>
+                  <hi>Sect.</hi> 5. That the Nomination and Election of the Governour, Sub-Governour, Deputy-Governour, and 12 Committees, ſhall be in and by the General Court Yearly, ſave that not above 5 of them ſhall be remo<g ref="char:EOLhyphen"/>ved in any one Year, but for juſt Cauſes expreſt, <hi>&amp;c.</hi> The 8 Wardens and other Agents, Officers, or Commiſſioners for <hi>England, Scotland,</hi> and <hi>Ireland,</hi> to be Nominated by the Court of Aſſiſtants, or 16 of them.</p>
+               <p>
+                  <hi>Sect.</hi> 6. That within 20 days after Publication of Subſcriptions of 150 Thouſand Pounds, a General Court ſhall be called for the Election of a Sub-Governour, or Deputy-Governour, and 4 Committees, by the New Subſcribers: And afterwards Elections to be made on the 30 of <hi>November</hi> Yearly, wherein not above 5 Committees to be Removed, as aforeſaid.</p>
+               <p>
+                  <hi>Sect.</hi> 7. The Articles, Terms or Conditions touching the admitting of Perſons into the Company are confirmed, as a part of the Conſtitution inviolably to be obſerved.</p>
+               <p>
+                  <hi>Sect.</hi> 8. That all Subſcribers, who ſhall not be choſen for Managers, <hi>&amp;c.</hi> ſhall be Denominated as Traders or Adventurers, and their reſpective Shares, both as to Profit and Loſs, Yearly ſtated and determined, as other the Stock of the Company.</p>
+               <p>
+                  <hi>Sect.</hi> 9. That no Member of the Company, after the 30 of <hi>November</hi> next after Subſcriptions are compleated, ſhall have any Vote in Elections or making Laws, <hi>&amp;c.</hi> who ſhall not have 500 <hi>l.</hi> Subſcribed, <hi>&amp;c.</hi> Nor any Perſon be admitted a Member of the Court of Aſſiſtants, who ſhall not have 1000 <hi>l.</hi> Subſcribed, <hi>&amp;c.</hi> or be otherwiſe entituled to the like Sum, by Transfer, Aſſignment, or otherwiſe.</p>
+               <p>
+                  <hi>Sect.</hi> 10. One Tenth Part of the clear neat Profits is ſet apart for bear<g ref="char:EOLhyphen"/>ing
+<pb n="5" facs="tcp:172509:4"/> the Charges of the Company, Court of Aſſiſtants, and 4 Chambers, <hi>&amp;c.</hi> alſo to pay Sallaries, <hi>&amp;c.</hi> to the Managing Members, Officers, or Ser<g ref="char:EOLhyphen"/>vants; and the Diſtributions and Proportions of each are thereby ſetled.</p>
+               <p>
+                  <hi>Sect.</hi> 11. The Accompts of Profit and Loſs are to be Yearly ſtated by the Officers in the Accompt-Chambers, each Year to end on the 10th. of <hi>June;</hi> the Court of Aſſiſtants are to Examine and Report the ſame to the General Court, on the 10th. of <hi>September</hi> following: And 9 of them to Sign the brief Account thereof, and each Ones Share of Profits to be paid amongſt the Perſons concerned.</p>
+               <p>
+                  <hi>Sect.</hi> 12. In caſe of Loſs in any one Year, the Stock is to be made good out of the next, before any Dividend, or Apportionment to Managers, Officers, <hi>&amp;c.</hi> ſave that Servants Sallaries or Wages of 30 <hi>l. per An.</hi> and un<g ref="char:EOLhyphen"/>der, may be advanced out of the Stock, and re-imburſed out of the next Years Profits; And, in caſe the Profits of any firſt Years ſhall not amount to 100 <hi>l.</hi> each Share, the ſame ſhall alſo be made up out of the after Years Profits aſſigned for that purpoſe.</p>
+               <p>
+                  <hi>Sect.</hi> 13. Mentions, In what caſes Perſons may be diſmiſt their Offices and Employments; and that the General Court, or Court of Aſſiſtants Judgment ſhall be final for the Determination thereof.</p>
+               <p>
+                  <hi>Sect.</hi> 14. Sets the Fines on ſuch as ſhall abſent themſelves from their At<g ref="char:EOLhyphen"/>tendance, when Summoned, or upon Adjournments, or for not attending ſo many Hours as ſhall be agreed upon; unleſs in caſe of Corporal Illneſs, or Licenſe from their reſpective Chambers.</p>
+               <p>
+                  <hi>Sect.</hi> 15. Directs the Cuſtody of the Larger Seal, as alſo of the Letters Patents, Deeds, Evidences of Lands granted to the Company, to be kept locked up in the Treaſury-Chamber under two Locks; whereof the Go<g ref="char:EOLhyphen"/>vernour, Sub-Governour, Deputy-Governour, and Directors, to have the Keys of one, and their reſpective Aſſiſtants of the other, who are to pro<g ref="char:EOLhyphen"/>duce the ſame upon all occaſions of the Company or Court of Aſſiſtants: Alſo that the Truſtees, and each Chamber, the Secretary of the Company, and the reſpective Commiſſioners, or Agents, for <hi>Scotland</hi> and <hi>Ireland,</hi> are to have one of the Leſſer Seals, to be uſed by them reſpectively in the Company's Service.</p>
+               <p>
+                  <hi>Sect.</hi> 16. If any Differences ſhall ariſe between the Members of the Court of Aſſiſtants, or ſeveral Chambers relating to the Company's Affairs, they are to be Determined by the General Court, <hi>&amp;c.</hi> And the Refuſers to ſubmit thereto, to be diſmiſt their Offices and Employments.</p>
+               <p>
+                  <hi>Sect.</hi> 17. The Seven Truſtees are named and ſettled, and three of the other Aſſiſtants: The other five Aſſiſtants are to be Elected by them out of ſuch as ſhall become Subſcribers to the New Stock of the Company. Their after-nomination and ſucceſſion is alſo agreed to be in, by, and amongſt themſelves, or the major part of the whole fifteen.</p>
+               <pb n="6" facs="tcp:172509:5"/>
+               <p>
+                  <hi>Sect.</hi> 18. The Governour, Sub-Governour, Deputy-Governour, Com<g ref="char:EOLhyphen"/>mittees, Aſſiſtants, and all Subſcribers, before they be admitted into any Truſt or Office in the Company, are to declare their Approbation of, and Acquieſcing in the Conſtitution, and all After-Conſtitutions, Laws, and Rules of the Company, as is more at large therein expreſt.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Thirdly,</hi> The Abſtract of the Forementioned Articles, Terms, or Conditions, touching Subſcriptions, <hi>viz.</hi>
+               </head>
+               <p n="1">1. THat whoſoever ſhall Subſcribe and Pay in any Sum or Sums of Mo<g ref="char:EOLhyphen"/>ney, towards a Joynt Stock for carrying on the Trade of the ſaid Company, ſhall be admitted into the ſame, and have and receive all the Benefits and Advantages thereof, ſubject to the Conſtitution, Laws, and Rules of the ſaid Company, and theſe Articles, Terms, and Conditions, <hi>&amp;c.</hi>
+               </p>
+               <p n="2">2. That the Sum deſigned to be at preſent Subſcribed, be 300000<hi>l.</hi> whereof 100000<hi>l.</hi> by the ſurviving Patentees, their Heirs and Aſſigns, and the other preſent Members; and 200000 <hi>l.</hi> more by other Perſons. The ſame to be paid into the Treaſury of the ſaid Company in manner following, <hi>viz.</hi> The firſt Tenth Part thereof to be paid within 30 days from and after notice or publication of the compleating the Subſcriptions of the ſaid 300000 <hi>l.</hi> or of 150000 <hi>l.</hi> at leaſt in part thereof. One Tenth Part more within three Months next after their reſpective firſt Payments, and the other remaining Eight Tenth Parts, by Eight equal next Suc<g ref="char:EOLhyphen"/>ceſſive Quarterly Payments.</p>
+               <p n="3">3. That one Tenth Part of each Sum ſo Subſcribed, ſhall be appropria<g ref="char:EOLhyphen"/>ted to and for the uſe and diſpoſal of the ſaid Truſtees, and of ſuch other Perſons as they ſhall judge have heretofore been, or may hereafter be uſe<g ref="char:EOLhyphen"/>ful for, or in promoting the Intereſt and Service of the Company, with<g ref="char:EOLhyphen"/>out Accompt: So as ſame, nevertheleſs, ſhall be and remain in the Stock for carrying on the Trade thereof. And the remaining Nine Parts, to and for the ſole Uſe and Benefit of the reſpective Subſcribers, their Ex<g ref="char:EOLhyphen"/>ecutors, Adminiſtrators, and Aſſigns.</p>
+               <p n="4">4. That whatſoever further Sums ſhall at any time hereafter be thought fit by the Company to be Subſcribed and paid in, for increaſing the ſaid Stock, ſhall be in like manner ſubject to the Payment of the like Tenth Part, <hi>&amp;c.</hi> for, or towards the Reimburſement of the Subſcribers ſaid Tenth Part of the ſaid firſt 300000 Pounds.</p>
+               <p n="5">5. That whoſoever ſhall Subſcribe and pay in his firſt Payment, and ſhall not make his ſecond, or any after-payments, by the reſpective days or times before limited, ſhall forfeit his firſt Payment to the uſe of the Company, and have Credit only for ſuch after-payments as he ſhall make.</p>
+               <p n="6">6. That all Shares, or Sums amounting to 50 <hi>l.</hi> and Aſſignments thereof,
+<pb n="7" facs="tcp:172509:5"/> ſhall be Entred and Regiſtred, and Certificates thereof Exemplified un<g ref="char:EOLhyphen"/>der the Seal, be given for the ſame, to ſuch Perſons as ſhall deſire it.</p>
+               <p n="7">7. That no Perſon ſhall be hereafter admitted a Member of the Com<g ref="char:EOLhyphen"/>pany, unleſs he ſhall at the time of his Subſcription, declare his approba<g ref="char:EOLhyphen"/>tion of, and ſubmitting to theſe Articles, and engage himſelf to obſerve and keep the ſame inviolably; and alſo all ſuch Conſtitutions, Laws, and Rules of the Company, as they have or ſhall make, for the Management and Regulation of their Trade, purſuant to the Letters Patents and the preſent Conſtitution.</p>
+               <p>By all which 'tis evident, That there is (1.) A Legal Foundation for this Undertaking, <hi>viz.</hi> By Letters Patents from his late Majeſty of <hi>Great Britain</hi> and <hi>Ireland.</hi> (2.) A Regular Conſtitution and Laws for the Man<g ref="char:EOLhyphen"/>agement of the Affairs of the ſaid Company ſo as may be ſafe, and with Satisfaction to ſuch as ſhall Subſcribe and pay in their Moneys for a joynt Stock of the Company. (3.) Conſiderable Encouragements to the Sub<g ref="char:EOLhyphen"/>ſcribers of the firſt 300000 <hi>l.</hi> not only by their Re-imburſement of their Tenth, by the Subſcribers of the next 300000 <hi>l.</hi> but 3 <hi>per C<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> allowed the Subſcribers of the firſt 150000 <hi>l.</hi> thereof out of their firſt three Quar<g ref="char:EOLhyphen"/>ter Payments, by equal Proportions, in caſe they make their Subſcrip<g ref="char:EOLhyphen"/>tions by the days limited.</p>
+               <p>Some things might be publiſhed touching the great neceſſity and utility of the Undertaking, both to the Publick and Private, but divers have al<g ref="char:EOLhyphen"/>ready written their Sentiments, and informed us of the Experiences of the Wealth and Power our Neighbours have arrived unto, by their Fiſh<g ref="char:EOLhyphen"/>ings in theſe <hi>Britiſh</hi> Seas; which is an evident demonſtration, that the Af<g ref="char:EOLhyphen"/>fair duly managed, and diligently attended, will, with God's Bleſſing, ex<g ref="char:EOLhyphen"/>ceed all the uſual limits of Profits in other Attempts. Thoſe who have taken pains therein, have alſo evinced, that each Buſs or Fiſhing-Veſſel of about 80 Tun (which will not coſt above 1300 <hi>l.</hi> in Building, Equip<g ref="char:EOLhyphen"/>ping, Victualling, and Wages, for one Year,) will produce at leaſt 1000 <hi>l. per Annum</hi> clear gain to the Company (one half or third part thereof were ſufficient Encouragement): Alſo, that we may Build, Equip, and Man our Veſſels at leſs Charge than our Neighbours (which has not hi<g ref="char:EOLhyphen"/>therto been conſidered, or put into the Eſtimate.) And that the Com<g ref="char:EOLhyphen"/>modity may be rendred more grateful and acceptable by the Salt, and Methods for Cure and Packing to be uſed therein, and our Markets ear<g ref="char:EOLhyphen"/>lier, (both at home and abroad) by ſix Weeks than theirs, <hi>&amp;c.</hi>
+               </p>
+               <p>Some of thoſe (who have aſſerted theſe things in Print) may be had and conſulted, and to that purpoſe are enumerated, <hi>viz.</hi> (1.) Sir <hi>John Burroughs,</hi> Kt. in his Treatiſe, Entituled, The Soveraignty of the <hi>Britiſh</hi> Seas proved by Records, Hiſtory, and the Municipal Laws of this King<g ref="char:EOLhyphen"/>dom, written in <hi>Anno</hi> 1633. and printed <hi>Anno</hi> 1651. Wherein he gives
+<pb n="6" facs="tcp:172509:6"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:172509:6"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="8" facs="tcp:172509:7" rendition="simple:additions"/> a diſtinct Account of the ſeveral Advantages made of this Fiſhery by our Neighbours. A Treatiſe worthy every <hi>Engliſh</hi> Man's peruſal. (2.) <hi>Tobias Gentleman,</hi> an Experienced Fiſherman, in his Treatiſe, Entituled, <hi>Eng<g ref="char:EOLhyphen"/>land</hi>'s way to get Wealth, and to Employ Ships and Mariners, Printed <hi>Anno</hi> 1614. (3.) A Treatiſe written by <hi>E. S.</hi> Entituled, <hi>Britain</hi>'s Buſs, which gives a very particular Computation as well of the Charge of a Herring-Fiſhing-Ship's Building and ſetting out, as alſo of the Gain and Profit thereby: Written <hi>Anno</hi> 1615. and Re-printed <hi>Anno</hi> 1630. (4.) Sir <hi>Ro<g ref="char:EOLhyphen"/>ger L'Eſtrange,</hi> in his Diſcourſe of the Fiſhery, briefly laying open, not only the Advantages and Facility of the Undertaking, but the Abſolute Neceſſity of it, in order to the Well-being both of King and People, Printed <hi>Anno</hi> 1674. And (5.) Mr. <hi>Andrew Yarranton</hi>'s Second Part of <hi>England</hi>'s Improvement by Sea and Land, <hi>Chap.</hi> 7. [Of the Improvements of the Fiſhery] Shewing the way of Managing the ſaid Trade to greater Advantage and leſs Charge than others can: Which might be alſo fur<g ref="char:EOLhyphen"/>ther evinced by the Laws of this Kingdom, Relating to the Cuſtoms touching Salt, and Exportation of Fiſh into Foreign Parts, <hi>&amp;c.</hi> But this Advertiſement is conceived ſufficient, and therefore ſhall be ſhut up with the Concluding Words of Sir <hi>John Borroughs</hi>'s forementioned Treatiſe, <hi>viz.</hi> The Soveraignty of our Seas, being the moſt Precious Jewel of His Majeſty's Crown, and (next under God) the principal means of our Wealth and Safety, all true <hi>Engliſh</hi> Hearts and Hands are bound by all poſſible means and diligence to Preſerve and Maintain the ſame, even with the uttermoſt hazard of their Lives, Goods, and Fortunes.</p>
+               <p>
+                  <hi>Memorandum,</hi> That the Subſtance of what is contained in moſt of the Treatiſes above referred unto, is in a Treatiſe, Entituled, <hi>A Collection, with ſome Obſervations touching the Royal Fiſhery of</hi> Great Britain <hi>and</hi> Ireland. Tranſcribed and newly Printed by Allowance of the Com<g ref="char:EOLhyphen"/>pany, and may be had at divers Book-ſellers in this City and <hi>Weſt<g ref="char:EOLhyphen"/>minſter.</hi> Alſo, The Books will be opened for further Subſcriptions, on <hi>Monday</hi> Morning, the 4th. day of <hi>November</hi> next, and ſo from day to day, at <hi>Mercer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s Hall</hi> in <hi>Cheapſide, London,</hi> until the Stock Propoſed be compleated: Which all Perſons who intend to be concerned therein, are deſired to take Notice of.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
